@@ -161,7 +161,7 @@ order by difference desc;
 ---
 
 ### 🔹 5. Highest vs Lowest Manufacturing Costs
-💡 **Insight:** Product pricing is tiered. Cost range: $240.54 vs $0.89.
+💡 **Insight:** Product pricing is tiered. Cost range: $240.45 vs $0.89.
 
 ![**📊 Visualization**](https://github.com/Anand-Analyst-05/Ad-hoc-Analysis-Consumer-Goods/blob/main/Files/Query%20Output/Visual%205.png)
 
