@@ -407,7 +407,7 @@ CREDITS.md
 ## 🔗 Links
 
 - 🎥 [Power BI Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDNiYzdhMTgtYTgwMC00NjhmLWI3NmEtMjAwNzlkZjc0ZTQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- 📌[Linkedin Post](https://codebasics.io/portfolio/Anand-Cinenkanolu)
+- 📌[Linkedin Post](https://www.linkedin.com/in/Anand-Cinenkanolu/)
 - 📁[Portfolio](https://codebasics.io/portfolio/Anand-Cinenkanolu) 
 - 📜 [Challenge Details](https://codebasics.io/project-challenge)
 
