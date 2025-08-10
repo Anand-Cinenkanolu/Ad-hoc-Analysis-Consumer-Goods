@@ -1,5 +1,4 @@
-# Ad-hoc-Analysis-Consumer-Goods - SQL Portfolio Project
-
+# Ad-hoc-Analysis-Consumer-Goods - AtliQ Hardwares
 ### Turning raw data into real business insights, one query at a time.
 
 ---
