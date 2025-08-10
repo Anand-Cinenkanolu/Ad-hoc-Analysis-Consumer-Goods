@@ -1,4 +1,4 @@
-# Ad-hoc-Analysis-Consumer-Goods - AtliQ Hardwares
+# Ad-hoc-Consumer-Goods-Analysis - AtliQ Hardwares
 ### Turning raw data into real business insights, one query at a time.
 
 ---
